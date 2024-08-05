@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasikumar</h1>
-<h3 align="center">I have 3+ year of experience in IT industry as a Software #Tester</h3>
+<h3 align="center">I have 6+ year of experience in IT industry as a Software #Tester</h3>
 
 - 📫 How to reach me **sasikumarbala29@gmail.com**
 
