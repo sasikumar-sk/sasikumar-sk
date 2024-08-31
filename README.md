@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasikumar</h1>
-<h3 align="center">I have 6+ year of experience in IT industry as a Software #Tester</h3>
+<h3 align="center">🚀 Senior Software Test Engineer | 6+ Years of Experience | Specializing in Manual & Automation Testing, Blockchain, AI/ML | Passionate about Quality Assurance and Continuous Learning
+</h3>
 
 - 📫 How to reach me **sasikumarbala29@gmail.com**
 
