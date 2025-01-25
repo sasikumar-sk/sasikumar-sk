@@ -3,7 +3,8 @@
 </h3>
 <h5 align="left">📫  Connect with me <br>
 Email: sasikumarbala29@gmail.com <br>
-LinkedIn: linkedin.com/in/sasikumarbala
+LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sasikumarbala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sasikumarbala?trk=profile-badge">Sasi Kumar</a></div>
+              
 </h5>
 <p align="left">
 </p>
