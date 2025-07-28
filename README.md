@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sasikumar.B</h1>
-<h3 align="center">🚀 Senior Software Test Engineer | 7+ Years of Experience | Specializing in Manual & Automation Testing | API Testing | Blockchain, AI/ML | Passionate about Quality Assurance and Continuous Learning
-</h3>
-<h5 align="left">📫  Connect with me <br>
-Email: sasikumarbala29@gmail.com <br>
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sasikumarbala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sasikumarbala?trk=profile-badge">Sasi Kumar</a></div>
-              
-</h5>
-<p align="left">
-</p>
- 🔍 About Me
+# 👋 Hi, I’m Sasikumar B
 
-Experienced Senior Software Test Engineer with 7+ years of expertise in manual and automation testing, specializing in domains like Blockchain, Crypto Tech, Fintech, and AI/ML. Adept at identifying and resolving complex issues, ensuring high-quality deliverables across large-scale and agile projects. Passionate about leveraging cutting-edge tools and technologies to streamline testing processes and enhance user experiences.
+## 🔍 About Me
+Experienced **Senior Software Test Engineer** with **7+ years** of expertise in manual and automation testing, specializing in **API testing**, and across domains like **Blockchain, Crypto Tech, Fintech, AI/ML, Web3, and DApps**. I excel at identifying and resolving complex issues to deliver high-quality products in _agile and enterprise environments_.  
+
+Passionate about leveraging advanced tools and methodologies to streamline testing workflows and enhance user experiences.  
+
+Experienced in testing for **healthcare applications**, **OCR systems**, and **AI/ML model validation**, with a strong focus on **GDPR**, **security**, and **regulatory compliance** to protect data privacy and meet industry standards.  
+
+---
+
+## 📚 Certifications & Awards
+
+### 🔒 Compliance & Crypto
+- **Travel Rule Foundations Course** (Notabene), Feb 2024 – Aug 2031  
+- **Google Analytics Individual Qualification** _(Expired Mar 2022)_, Nov 2019  
+
+### ⚙️ Technical
+- **Postman Student Expert**, Jul 2021  
+- **ASP.NET Core – Beginner** (Microsoft), Dec 2018  
+- **Selenium IDE – “Everything You Ever…”** (Udemy), Dec 2018  
+- **Software Testing Fundamentals** (Microsoft), Dec 2018  
+- **Core & Advanced Java Training**, Jan 2018  
+
+### 🏆 Awards
+- **Matsya Yantra Award — Best Performer**, Jul 2019  
+- **Matsya Yantra Award — Best Performance of the Month**, Dec 2020  
