@@ -1,9 +1,10 @@
-# 👋 Hello, I'm Sasikumar B
+<h1>Sasikumar B – Senior Manual & Automation Engineer</h1>
+🚀  • API Testing • Selenium • Web3 • Blockchain • FinTech • AI/ML • Playwright
 
-### 🚀 Senior QA & Automation Engineer | 7+ Years Experience | Playwright • API • Blockchain • AI/ML
-
-I'm a passionate and detail-oriented QA Engineer with **7+ years of experience** in manual and automated testing across diverse domains such as **FinTech, Blockchain, AI/ML, and Healthcare**.
-
+<p>I specialize in end-to-end quality engineering using Playwright, Selenium, Postman, and Cypress. With 7+ years of experience across blockchain, fintech, and healthcare domains, I’ve contributed to high-impact QA projects at companies like QAonCloud, Notabene, and Akyrian.</p>
+<p>Skilled in Web3 testing, API validation, test automation, OCR verification, and agile processes.</p>
+<p>Certified by Microsoft and Notabene. Passionate about building bug-free, secure, and scalable digital products.</p>
+ 
 ---
 
 ## 🔧 Technical Skills
