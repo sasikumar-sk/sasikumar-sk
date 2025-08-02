@@ -21,11 +21,11 @@ I'm a passionate and detail-oriented QA Engineer with **7+ years of experience**
 
 ### 🏢 **QAonCloud** – *Senior Software Test Engineer* (2018 – Present)
 Projects:
-- 🔹 **Akyrian** – AI-powered Clinical Research: Website + OCR model testing  
-- 🔹 **Notabene** – Crypto Compliance: Web3, wallet, webhook & API automation  
-- 🔹 **Nanonets** – ML OCR platform: Data extraction, UAT & regression  
-- 🔹 **AT&T Cybersecurity** – Selenium-based automation  
-- 🔹 **Avanti** – Mobile + web app QA for financial services
+- 🔹 – AI-powered Clinical Research: Website + OCR model testing  
+- 🔹 – Crypto Compliance: Web3, wallet, webhook & API automation  
+- 🔹 – ML OCR platform: Data extraction, UAT & regression  
+- 🔹 – Selenium-based automation  
+- 🔹 – Mobile + web app QA for financial services
 
 ---
 
