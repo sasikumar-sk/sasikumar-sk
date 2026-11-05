@@ -22,37 +22,37 @@
 
 ### 🏢 **QAonCloud** – *Senior Software Test Engineer* (2018 – Present)
 Projects:
-- 🔹 – AI-powered Clinical Research: Website + OCR model testing  
-- 🔹 – Crypto Compliance: Web3, wallet, webhook & API automation  
-- 🔹 – ML OCR platform: Data extraction, UAT & regression  
-- 🔹 – Selenium-based automation  
-- 🔹 – Mobile + web app QA for financial services
+🔹 – AI-powered Clinical Research: Website + OCR model testing  
+🔹 – Crypto Compliance: Web3, wallet, webhook & API automation  
+🔹 – ML OCR platform: Data extraction, UAT & regression  
+🔹 – Selenium-based automation  
+🔹 – Mobile + web app QA for financial services
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Awarded **"Matsya Yantra"** and **"Yali"** for exceptional QA performance  
-- 🏅 Recognized for delivering high-quality software in agile teams  
-- 🧠 Supported AI/ML model validations in production workflows
+🥇 Awarded **"Matsya Yantra"** and **"Yali"** for exceptional QA performance  
+🏅 Recognized for delivering high-quality software in agile teams  
+🧠 Supported AI/ML model validations in production workflows
 
 ---
 
 ## 📜 Certifications
 
-- ✔️ Software Testing Fundamentals – *Microsoft*
-- ✔️ Core & Advanced Java – *Silicon Software Services*
-- ✔️ Travel Rule Foundations – *Notabene*
-- ✔️ Python Foundations – *DesiCrew Solutions*
+✔️ Software Testing Fundamentals – *Microsoft*
+✔️ Core & Advanced Java – *Silicon Software Services*
+✔️ Travel Rule Foundations – *Notabene*
+✔️ Python Foundations – *DesiCrew Solutions*
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 **Email**: sasikumarbala29@gmail.com  
-- 💼 **LinkedIn**: [sasikumarbala](https://www.linkedin.com/in/sasikumarbala/)  
-- 💻 **Portfolio**: [GitHub Pages](https://sasikumar-sk.github.io/sasikumar-sk)  
-- 📂 **Resume**: [View PDF Resume](https://github.com/sasikumar-sk/sasikumar-sk/blob/main/SASIKUMAR_B_Senior_QA_Engineer_Resume.pdf) *(optional)*
+📧 **Email**: sasikumarbala29@gmail.com  
+💼 **LinkedIn**: [sasikumarbala](https://www.linkedin.com/in/sasikumarbala/)  
+💻 **Portfolio**: [GitHub Pages](https://sasikumar-sk.github.io/sasikumar-sk)  
+📂 **Resume**: [View PDF Resume](https://github.com/sasikumar-sk/sasikumar-sk/blob/main/SASIKUMAR_B_Senior_QA_Engineer_Resume.pdf) *(optional)*
 
 ---
 
