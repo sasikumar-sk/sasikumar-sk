@@ -1,7 +1,7 @@
 <h1>Sasikumar B – Senior Manual & Automation Engineer</h1>
 🚀  • API Testing • Selenium • Web3 • Blockchain • FinTech • AI/ML • Playwright
 
-<p>I specialize in end-to-end quality engineering using Playwright, Selenium, Postman, and Cypress. With 7+ years of experience across blockchain, fintech, and healthcare domains, I’ve contributed to high-impact QA projects at companies like QAonCloud, Notabene, and Akyrian.</p>
+<p>I specialize in end-to-end quality engineering using Playwright, Selenium, Postman, and Cypress. With 8+ years of experience across blockchain, fintech, and healthcare domains, I’ve contributed to high-impact QA projects at companies like QAonCloud, Notabene, and Akyrian.</p>
 <p>Skilled in Web3 testing, API validation, test automation, OCR verification, and agile processes.</p>
 <p>Certified by Microsoft and Notabene. Passionate about building bug-free, secure, and scalable digital products.</p>
  
@@ -9,12 +9,12 @@
 
 ## 🔧 Technical Skills
 
-- **Test Automation**: Selenium, Cypress, Playwright  
-- **API Testing**: Postman, Webhooks, REST, JSON, SOAP  
-- **Bug Tracking**: JIRA, Asana, Helix ALM, Linear  
-- **Languages**: Java, Python (basic), C, HTML, CSS  
-- **Platforms**: Ubuntu, Android Studio, GitHub, VS Code  
-- **Tools**: Figma, Blockchain Explorer, Airtable, Notion
+- **Test Automation**: Playwright, Selenium, Cypress.
+- **API Testing**: Postman, REST API, SOAP.
+- **Bug Tracking**: JIRA, Asana, Helix ALM, Linear.
+- **Languages**: Java, Python (basic), C, HTML, CSS.
+- **Platforms**: Ubuntu, Android Studio, GitHub, VS Code.  
+- **Tools**: Figma, Blockchain Explorer, Airtable, Notion, ProcessX. 
 
 ---
 
@@ -22,6 +22,7 @@
 
 ### 🏢 **QAonCloud** – *Senior Software Test Engineer* (2018 – Present)
 Projects:
+
 🔹 – AI-powered Clinical Research: Website + OCR model testing  
 🔹 – Crypto Compliance: Web3, wallet, webhook & API automation  
 🔹 – ML OCR platform: Data extraction, UAT & regression  
